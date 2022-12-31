@@ -1,5 +1,5 @@
 import { database } from "./firebase.js";
-import { onValue, ref, set, get } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
+import { onValue, ref, set, get } from "firebase/database";
 
 const Get = (id) => {return document.getElementById(id)};
 const Log = (message) => console.log(message);

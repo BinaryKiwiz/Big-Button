@@ -1,0 +1,23 @@
+{
+  "name": "big-button",
+  "version": "1.0.0",
+  "description": "A really big button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BinaryKiwiz/Big-Button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BinaryKiwiz/Big-Button/issues"
+  },
+  "homepage": "https://github.com/BinaryKiwiz/Big-Button#readme",
+  "dependencies": {
+    "firebase": "^9.15.0"
+  }
+}
